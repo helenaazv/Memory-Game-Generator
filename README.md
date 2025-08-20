@@ -14,7 +14,6 @@ A fun and interactive memory card game built with React, where you can generate 
 - Stats Tracking: Tracks number of flips, matched cards, and elapsed time.
 - Best Time: Saves your best completion time in local storage.
 - Confetti Celebration: Celebrate when you complete the game.
-- Responsive Design: Works on desktop and mobile devices.
 
 ## Technologies
 - React – Frontend framework
