@@ -1,6 +1,12 @@
 # Memory Game Generator
 
-A fun and interactive memory card game built with React, where you can generate custom card decks using images from Unsplash.
+A fun and interactive memory card game built with React, where you can generate custom card decks using images from Unsplash API.
+
+## Screenshots
+<img src="./Screen1.png" alt="Alt text" width="500"/> 
+<img src="./Screen2.png" alt="Alt text" width="500"/>
+<img src="./Screen3.png" alt="Alt text" width="500"/>
+<img src="./Screen4.png" alt="Alt text" width="500"/>
 
 ## Features
 - Custom Image Decks: Type a topic and generate cards based on Unsplash images.
@@ -54,7 +60,6 @@ npm start
 - When all pairs are matched, a confetti animation will play and your score will be displayed.
 - Click Play Again to start a new game.
 
-## Screenshots
 
 
 ## Notes
